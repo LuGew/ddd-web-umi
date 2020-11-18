@@ -1,9 +1,0 @@
-import axios from 'axios';
-
-export default class Request {
-
-
-  get() {
-    axios
-  }
-};

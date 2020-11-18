@@ -10,5 +10,10 @@ export default {
   'or': '或者',
   'register.now': '立即注册',
   'remember.me': '记住我',
+  'welcome': '欢迎',
+  'content': '内容',
+  'hero': '英雄',
+  'item': '局内道具',
+  'skill': '召唤师技能',
 
 };
